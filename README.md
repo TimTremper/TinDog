@@ -1,2 +1,1 @@
-# TinDog-App
-TinDog Sample application
+TinDog Starting Files
